@@ -1,0 +1,9 @@
+spacy==3.7.6
+numpy==2.1.0
+pandas==2.2.2
+seaborn==0.13.2
+tqdm==4.66.5
+matplotlib==3.9.2
+scikit-learn==1.5.1
+scipy==1.14.1
+imbalanced-learning==0.12.3
